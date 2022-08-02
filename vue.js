@@ -4,9 +4,9 @@ const app = Vue.createApp({
             keys: [
               {colour: "aqua", name: "Total Confirmed Cases"},
               {colour: "rgb(96, 163, 163)", name: "Total Deaths"},
-              {colour: "rgb(28, 83, 83)", name: "Total Deaths"},
-              {colour: "rgb(6, 41, 41)", name: "Total Recovered"},
-              {colour: "rgb(0, 82, 82)", name: "Active Cases"},
+              {colour: "rgb(28, 83, 83)", name: "TotalRecovered"},
+              {colour: "rgb(6, 41, 41)", name: "Active Cases"},
+              {colour: "rgb(0, 82, 82)", name: "Daily Confirmed Cases"},
               {colour: "rgb(0, 160, 160)", name: "Daily Confirmed Cases"}
             ],
             covid_stats: [
