@@ -1,0 +1,35 @@
+.graph{
+    overflow-x: scroll;
+}
+
+.total_confirmed_cases{
+    height: 10px;
+    background-color: aqua;
+}
+
+.total_deaths{
+    height: 10px;
+    background-color: rgb(96, 163, 163);
+}
+
+.total_recovered{
+    height: 10px;
+    background-color: rgb(28, 83, 83);
+}
+
+.active_cases{
+    height: 10px;
+    background-color: rgb(6, 41, 41);
+}
+
+.daily_confirmed_cases{
+    height: 10px;
+    background-color: rgb(0, 82, 82);
+}
+
+.daily_deaths{
+    height: 10px;
+    background-color: rgb(0, 160, 160);
+}
+
+/* v-for="data in covid_stats" */
