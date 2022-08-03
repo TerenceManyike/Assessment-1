@@ -11,6 +11,7 @@ const app = Vue.createApp({
               {colour: "rgb(0, 82, 82)", name: "Daily Confirmed Cases"},
               {colour: "rgb(0, 160, 160)", name: "Daily Deaths"}
             ],
+            //given data,  
             covid_stats: [
                 {
                   "Date": "2020/03/05",
