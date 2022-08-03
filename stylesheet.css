@@ -1,3 +1,4 @@
+/* Keys section styles */
 .round_circle{
     width: 30px;
     height: 30px;
@@ -14,6 +15,7 @@
     border-bottom: 85px solid rgb(6, 41, 41);
 }
 
+/* graph section styles */
 .graph{
     overflow-x: scroll;
     width: auto;
